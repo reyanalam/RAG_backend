@@ -1,0 +1,5 @@
+fastapi[all]
+pymupdf
+sqlalchemy==1.4.23
+psycopg2
+alembic
